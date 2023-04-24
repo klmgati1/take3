@@ -1,0 +1,25 @@
+body {
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+} 
+
+.title {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.centered {
+    color: darkslategrey;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
